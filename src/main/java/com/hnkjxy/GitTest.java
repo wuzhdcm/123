@@ -2,7 +2,7 @@ package com.hnkjxy;
 
 /**
  * @author wuzihao
- * @date 2023/5/9 - 10:45
+ * @date 2023/5/9 - 10:38
  */
 public class GitTest {
 
@@ -10,6 +10,7 @@ public class GitTest {
     System.out.println("22222");
     System.out.println("111111");
     System.out.println("3333333");
+    System.out.println("444444");
   }
 
 }
